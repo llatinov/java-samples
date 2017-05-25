@@ -10,10 +10,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <selenium.version>3.0.1</selenium.version>
     </properties>
     <modules>
         <module>junit</module>
         <module>wiremock</module>
+        <module>apache-poi</module>
     </modules>
 </project>
