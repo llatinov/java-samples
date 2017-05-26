@@ -13,6 +13,7 @@ Code examples for following JUnit posts:
 * <a href="http://automationrhapsody.com/assert-mockito-mock-method-arguments-no-equals-method-implemented/">Assert Mockito mock method arguments if no equals() method implemented</a>
 * <a href="http://automationrhapsody.com/data-driven-testing-junit-parameterized-tests/">Data driven testing with JUnit parameterized tests</a>
 * <a href="http://automationrhapsody.com/mock-static-methods-junit-powermock-example/">Mock static methods in JUnit with PowerMock example</a>
+* <a href="http://automationrhapsody.com/verify-static-method-called-powermock/">Verify static method was called with PowerMock</a>
 
 ## wiremock ##
 
