@@ -14,6 +14,9 @@ Code examples for following JUnit posts:
 * <a href="http://automationrhapsody.com/data-driven-testing-junit-parameterized-tests/">Data driven testing with JUnit parameterized tests</a>
 * <a href="http://automationrhapsody.com/mock-static-methods-junit-powermock-example/">Mock static methods in JUnit with PowerMock example</a>
 * <a href="http://automationrhapsody.com/verify-static-method-called-powermock/">Verify static method was called with PowerMock</a>
+* <a href="http://automationrhapsody.com/call-private-method-powermock/">Call private method with PowerMock</a>
+* <a href="http://automationrhapsody.com/mock-private-method-call-powermock/">Mock private method call with PowerMock</a>
+* <a href="http://automationrhapsody.com/mock-new-object-creation-powermock/">Mock new object creation with PowerMock</a>
 
 ## wiremock ##
 
