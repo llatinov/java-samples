@@ -29,3 +29,8 @@ Code examples for following WireMock posts:
 Code examples for following Apache POI posts:
 * <a href="http://automationrhapsody.com/manage-microsoft-excel-files-java-apache-poi/">Manage Microsoft Excel files in Java with Apache POI</a>
  
+## java8 ##
+
+Code examples for following Java 8 posts:
+* <a href="http://automationrhapsody.com/java-8-features-stream-api-basic-examples/">Java 8 features – Stream API basic examples</a>
+* <a href="http://automationrhapsody.com/java-8-features-stream-api-advanced-examples/">Java 8 features - Stream API advanced examples</a>
