@@ -61,7 +61,7 @@ public class AdvancedStreamExamplesTest {
 
         String skills = AdvancedStreamExamples.printEmployeeSkills(company, Position.QA);
 
-        assertThat(skills, is("Our employees have: Selenium; C#; Java; JavaScript; Protractor skills"));
+        assertThat(skills, is("Our QAs have: Selenium; C#; Java; JavaScript; Protractor skills"));
     }
 
     @Test
